@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2608961868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a89a77e08fc49f98d7035e4914ec4537
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BTS/mats/editingRoom/add.png
+- Assets/BTS/mats/editingRoom/delete.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/button9slice.png
+- Assets/BTS/mats/editingRoom/circle.png
+- Assets/BTS/mats/SMG-E3TitleSparkle.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/XingLight.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/selection_cylinder_filled.png
+- Assets/BTS/mats/editingRoom/forward.png
+- Assets/BTS/mats/army-bts-logo-png.png
+- Assets/BTS/mats/editingRoom/move.png
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/selection_cylinder.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/separator.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/dialog.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/Oculus/VR/Textures/Black.png
+- Assets/BTS/mats/cd_dvd_PNG9077.png
+Dependencies: []

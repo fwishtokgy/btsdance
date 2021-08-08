@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2549186295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5d042b3f951248b977c9a6ce996d36a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/BTS/mats/stagelight.mat
+- Assets/BTS/mats/starbit2.mat
+- Assets/BTS/mats/BTSLogo.mat
+- Assets/BTS/mats/desperatefade.mat
+- Assets/BTS/mats/editingRoom/StarSparkleLeft.mat
+- Assets/BTS/mats/stage.mat
+- Assets/BTS/mats/backstage/backstage_ground.mat
+- Assets/BTS/mats/editingRoom/stareditcore.mat
+- Assets/BTS/mats/editingRoom/StarEdit.mat
+- Assets/BTS/mats/editingRoom/stareditcore 1.mat
+- Assets/BTS/mats/light.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_transparent.mat
+- Assets/BTS/mats/backstage/backstagestage.mat
+- Assets/BTS/mats/shadow.mat
+- Assets/BTS/mats/editingRoom/StarEdit 1.mat
+- Assets/BTS/mats/stadium.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinderBase.mat
+- Assets/BTS/mats/haloAward.mat
+- Assets/BTS/mats/backstage/New Material.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/ColumnGlow.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/XingLightMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBoxGlow.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureSkeletonBoneMaterial.mat
+- Assets/BTS/mats/backstage/backstagelight.mat
+- Assets/BTS/mats/Debug.mat
+- Assets/BTS/mats/spacefloaters.mat
+- Assets/BTS/mats/bubblesquare.mat
+- Assets/BTS/mats/CD.mat
+Dependencies:
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_resources
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_jpg0

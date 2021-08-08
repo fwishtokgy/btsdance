@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2551022385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0613429b783d3709d9ec1e40ebfc2166
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca637ba5617d79359be14e488ee64d4d
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/BTS/mats/MirrorTexture.renderTexture
+Dependencies: []

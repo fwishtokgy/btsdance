@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2345461161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22045f7bf3995d54672e85c9a5cc2b07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a1dc0cfe018d5802b99797b558bda0e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 121
+  Script: {instanceID: 0}
+Assets:
+- Assets/BTS/mats/New Flare.flare
+Dependencies:
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_png0

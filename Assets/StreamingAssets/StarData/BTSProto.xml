@@ -1,0 +1,1038 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StarSongXML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Info />
+  <Song>
+    <TimeSample>
+      <Value>0</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.237863824</X>
+        <Y>1.01982081</Y>
+        <Z>0.5486567</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.144998208</X>
+        <Y>1.01812816</Y>
+        <Z>0.571293354</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>12</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.425463468</X>
+        <Y>0.7926737</Y>
+        <Z>0.367688239</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.4936769</X>
+        <Y>0.7814323</Y>
+        <Z>0.0149944425</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>34</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.1963357</X>
+        <Y>0.9439356</Y>
+        <Z>-0.382615149</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.171151459</X>
+        <Y>0.910435736</Y>
+        <Z>-0.4116912</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>66</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.433464766</X>
+        <Y>0.864068151</Y>
+        <Z>-0.270434737</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.531101644</X>
+        <Y>0.836079359</Y>
+        <Z>0.0926063657</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>96</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.0168952942</X>
+        <Y>0.7128383</Y>
+        <Z>-0.320904136</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.3970725</X>
+        <Y>0.687907338</Y>
+        <Z>0.07436155</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>128</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.408962458</X>
+        <Y>1.12342978</Y>
+        <Z>0.07046136</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.286935121</X>
+        <Y>1.121267</Y>
+        <Z>0.294327557</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>132</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.5820703</X>
+        <Y>0.8306184</Y>
+        <Z>0.08863658</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.455696166</X>
+        <Y>0.8424575</Y>
+        <Z>0.355901033</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>134</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.298807025</X>
+        <Y>1.16433084</Y>
+        <Z>0.432951182</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>136</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.0614493042</X>
+        <Y>1.2457279</Y>
+        <Z>0.535971761</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>138</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.5013093</X>
+        <Y>1.341222</Y>
+        <Z>0.268985718</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>140</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.524966657</X>
+        <Y>1.33907151</Y>
+        <Z>0.07454592</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>142</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.08552501</X>
+        <Y>1.56759012</Y>
+        <Z>0.444137067</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.5288321</X>
+        <Y>0.729679763</Y>
+        <Z>-0.3802647</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>144</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.0909852758</X>
+        <Y>1.61156678</Y>
+        <Z>0.612914264</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>146</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.545490742</X>
+        <Y>1.64097512</Y>
+        <Z>0.202183217</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>162</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.422228515</X>
+        <Y>1.00725675</Y>
+        <Z>0.104647666</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.353228927</X>
+        <Y>1.00202143</Y>
+        <Z>0.355339557</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>174</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.146575511</X>
+        <Y>1.26886177</Y>
+        <Z>0.683395445</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>190</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.03716381</X>
+        <Y>1.057382</Y>
+        <Z>0.6043472</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>194</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.277299345</X>
+        <Y>0.9731122</Y>
+        <Z>0.3021588</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>206</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.31404984</X>
+        <Y>1.26878989</Y>
+        <Z>0.268018842</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.2972679</X>
+        <Y>1.26460254</Y>
+        <Z>0.0460348427</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>216</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.0866928548</X>
+        <Y>1.07351136</Y>
+        <Z>-0.3352598</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.419985235</X>
+        <Y>1.05954123</Y>
+        <Z>0.443979144</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>226</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.14598684</X>
+        <Y>1.43311751</Y>
+        <Z>0.6271557</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>236</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.272935331</X>
+        <Y>1.469784</Y>
+        <Z>0.260475069</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>258</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.334308922</X>
+        <Y>1.39522982</Y>
+        <Z>0.463047832</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.458467484</X>
+        <Y>1.39853168</Y>
+        <Z>-0.0283048749</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>266</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.306683272</X>
+        <Y>1.41261947</Y>
+        <Z>-0.125910908</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>270</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.189956844</X>
+        <Y>1.3256582</Y>
+        <Z>0.7445364</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>276</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.05076211</X>
+        <Y>1.31183267</Y>
+        <Z>0.6481928</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>290</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.1655984</X>
+        <Y>1.06774712</Y>
+        <Z>0.434462517</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.07102826</X>
+        <Y>1.08907783</Y>
+        <Z>0.549203038</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>298</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.306521535</X>
+        <Y>0.905293167</Y>
+        <Z>0.5374836</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.5301596</X>
+        <Y>0.8709926</Y>
+        <Z>0.3018274</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>304</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4370437</X>
+        <Y>1.25184929</Y>
+        <Z>0.4172904</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>308</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.304852515</X>
+        <Y>0.813593447</Y>
+        <Z>0.157388091</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.0105549991</X>
+        <Y>0.837397039</Y>
+        <Z>0.571717858</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>314</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.5408008</X>
+        <Y>1.1750102</Y>
+        <Z>0.015894711</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>330</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.39501214</X>
+        <Y>1.15510166</Y>
+        <Z>-0.0573869348</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.300410867</X>
+        <Y>0.7672041</Y>
+        <Z>0.398244351</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>346</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.2973945</X>
+        <Y>1.33339524</Y>
+        <Z>0.5153237</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>356</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.464262366</X>
+        <Y>1.32746685</Y>
+        <Z>0.3486259</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.437908143</X>
+        <Y>0.782613158</Y>
+        <Z>0.34705326</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>388</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.435921133</X>
+        <Y>0.842058361</Y>
+        <Z>-0.0148570836</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>400</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.429733783</X>
+        <Y>0.8294326</Y>
+        <Z>0.0132938027</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>410</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.138146833</X>
+        <Y>0.9668212</Y>
+        <Z>-0.390387654</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>412</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.3920858</X>
+        <Y>1.00014889</Y>
+        <Z>-0.217021465</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>414</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.536007941</X>
+        <Y>0.9737763</Y>
+        <Z>0.04907316</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>416</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4711024</X>
+        <Y>0.9976512</Y>
+        <Z>0.29554534</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>430</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.313334763</X>
+        <Y>1.56800282</Y>
+        <Z>0.287496448</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.113539942</X>
+        <Y>1.575865</Y>
+        <Z>0.4319344</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>452</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.0761805847</X>
+        <Y>1.42096734</Y>
+        <Z>-0.3200698</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>464</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4968543</X>
+        <Y>1.47228158</Y>
+        <Z>0.3314417</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>482</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.48220095</X>
+        <Y>1.68594921</Y>
+        <Z>0.2623744</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>496</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.5230653</X>
+        <Y>1.20108318</Y>
+        <Z>-0.1554963</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>514</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.6008431</X>
+        <Y>1.1839633</Y>
+        <Z>0.146618366</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>522</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.122322716</X>
+        <Y>1.12859845</Y>
+        <Z>-0.365832835</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>546</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.385313034</X>
+        <Y>0.5204509</Y>
+        <Z>-0.23553589</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>558</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.159818217</X>
+        <Y>0.532981038</Y>
+        <Z>-0.239649</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>578</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4502352</X>
+        <Y>0.7984557</Y>
+        <Z>0.234785259</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>586</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.2592389</X>
+        <Y>0.737102</Y>
+        <Z>-0.03747931</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>596</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.2906969</X>
+        <Y>0.899798036</Y>
+        <Z>-0.273035526</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>598</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.0354148746</X>
+        <Y>0.8470391</Y>
+        <Z>-0.3344089</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>600</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.307357848</X>
+        <Y>0.9039209</Y>
+        <Z>-0.266836584</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>608</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.03342801</X>
+        <Y>0.6407775</Y>
+        <Z>-0.305424631</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>622</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.0481256768</X>
+        <Y>0.622258663</Y>
+        <Z>-0.281340659</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>642</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.411638051</X>
+        <Y>1.53798068</Y>
+        <Z>0.4822755</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>650</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.0228764117</X>
+        <Y>0.5863445</Y>
+        <Z>-0.289687842</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>658</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.467528522</X>
+        <Y>1.10312927</Y>
+        <Z>0.08750537</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>660</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.09196755</X>
+        <Y>1.07612944</Y>
+        <Z>0.618701</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>662</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4824263</X>
+        <Y>1.1162802</Y>
+        <Z>0.338702828</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>666</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.250254929</X>
+        <Y>1.08207119</Y>
+        <Z>-0.2957385</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>668</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.0295888912</X>
+        <Y>1.1050868</Y>
+        <Z>-0.309760243</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>670</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.327132463</X>
+        <Y>1.1114794</Y>
+        <Z>-0.239413291</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>672</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.0215720385</X>
+        <Y>1.101905</Y>
+        <Z>-0.354583442</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>682</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.586555243</X>
+        <Y>1.12127769</Y>
+        <Z>0.0143527985</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.09555304</X>
+        <Y>1.395786</Y>
+        <Z>-0.246726334</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>690</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.391312242</X>
+        <Y>1.16030288</Y>
+        <Z>-0.09199178</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>694</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.184248865</X>
+        <Y>1.05320108</Y>
+        <Z>0.4642255</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.119790927</X>
+        <Y>1.07386684</Y>
+        <Z>0.49712953</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>698</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.336871862</X>
+        <Y>0.9908448</Y>
+        <Z>-0.074973464</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.0984259248</X>
+        <Y>0.967977166</Y>
+        <Z>-0.192492276</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>706</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.0702976137</X>
+        <Y>1.05947232</Y>
+        <Z>-0.4755096</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>714</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.0188211054</X>
+        <Y>1.2792933</Y>
+        <Z>-0.386766165</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>722</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.5203973</X>
+        <Y>1.06493032</Y>
+        <Z>-0.0206718445</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>730</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.5216055</X>
+        <Y>1.03684</Y>
+        <Z>-0.006163001</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>732</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.182312</X>
+        <Y>0.7589192</Y>
+        <Z>-0.2294302</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>734</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.305311859</X>
+        <Y>0.9822498</Y>
+        <Z>-0.169695169</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>736</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.107187577</X>
+        <Y>0.9889109</Y>
+        <Z>-0.279213965</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>738</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.4010691</X>
+        <Y>1.04996789</Y>
+        <Z>-0.218797326</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>754</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.150198221</X>
+        <Y>1.21515334</Y>
+        <Z>-0.285549045</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>756</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.300883234</X>
+        <Y>1.23607957</Y>
+        <Z>-0.1977109</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>758</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.41691196</X>
+        <Y>1.26869059</Y>
+        <Z>0.187192321</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>760</Value>
+      <StarInfo HandOwner="Right">
+        <X>-0.346503437</X>
+        <Y>1.2668221</Y>
+        <Z>0.6085362</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>762</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.09292756</X>
+        <Y>1.3009454</Y>
+        <Z>0.6512118</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>764</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.498754442</X>
+        <Y>1.28721929</Y>
+        <Z>0.4632458</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>766</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4325778</X>
+        <Y>1.31707382</Y>
+        <Z>0.06277728</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>770</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.3965467</X>
+        <Y>1.08630276</Y>
+        <Z>-0.134776354</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.4817793</X>
+        <Y>1.09073031</Y>
+        <Z>0.09593618</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>772</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.418172866</X>
+        <Y>1.47700393</Y>
+        <Z>-0.09324819</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.5098597</X>
+        <Y>1.47520936</Y>
+        <Z>0.108469248</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>782</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.481230825</X>
+        <Y>1.0739994</Y>
+        <Z>0.430210739</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.561617136</X>
+        <Y>1.07836533</Y>
+        <Z>0.17255944</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>784</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4500537</X>
+        <Y>1.42736125</Y>
+        <Z>0.466077268</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.5324098</X>
+        <Y>1.44200778</Y>
+        <Z>0.24568668</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>802</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.501336932</X>
+        <Y>0.952018142</Y>
+        <Z>0.457141</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>806</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.30463776</X>
+        <Y>0.9593665</Y>
+        <Z>0.6785934</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>810</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.509449065</X>
+        <Y>1.36816978</Y>
+        <Z>-0.08050847</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>814</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.0767209455</X>
+        <Y>1.30902982</Y>
+        <Z>-0.197693631</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>834</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.181813</X>
+        <Y>1.15088153</Y>
+        <Z>-0.0754462</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>838</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.2376976</X>
+        <Y>1.17492688</Y>
+        <Z>-0.0481202751</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>842</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.4101547</X>
+        <Y>0.9664854</Y>
+        <Z>0.111971438</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.009381559</X>
+        <Y>1.275855</Y>
+        <Z>-0.124783777</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>846</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.452111155</X>
+        <Y>1.28766823</Y>
+        <Z>0.0309630632</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.0271993037</X>
+        <Y>0.949397445</Y>
+        <Z>-0.06375998</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>866</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.0612287447</X>
+        <Y>1.2601862</Y>
+        <Z>-0.220641673</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>870</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.0879796445</X>
+        <Y>1.31284571</Y>
+        <Z>-0.386454046</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>874</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.29041028</X>
+        <Y>1.21094728</Y>
+        <Z>-0.09247938</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>878</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.358528316</X>
+        <Y>1.32466578</Y>
+        <Z>-0.195092648</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>910</Value>
+      <StarInfo HandOwner="Right">
+        <X>0.4152613</X>
+        <Y>1.38751578</Y>
+        <Z>-0.07874441</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>926</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.22109741</X>
+        <Y>1.4315263</Y>
+        <Z>-0.169097781</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>942</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.263307363</X>
+        <Y>1.49460411</Y>
+        <Z>-0.09781657</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.0233744252</X>
+        <Y>1.50051463</Y>
+        <Z>-0.1552792</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>954</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.3048559</X>
+        <Y>0.924929142</Y>
+        <Z>-0.139455646</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.03638134</X>
+        <Y>0.9101333</Y>
+        <Z>-0.199458748</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>974</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.6745775</X>
+        <Y>0.8245808</Y>
+        <Z>0.275030434</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>0.347689033</X>
+        <Y>0.7966846</Y>
+        <Z>0.0007313788</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>984</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.00735832</X>
+        <Y>0.8253688</Y>
+        <Z>-0.105030924</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.425159544</X>
+        <Y>0.806644</Y>
+        <Z>-0.0170070529</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>1008</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.0385340936</X>
+        <Y>1.63154435</Y>
+        <Z>-0.1472771</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>1018</Value>
+      <StarInfo HandOwner="Left">
+        <X>-0.00895188749</X>
+        <Y>0.633465767</Y>
+        <Z>-0.1573801</Z>
+      </StarInfo>
+    </TimeSample>
+    <TimeSample>
+      <Value>1042</Value>
+      <StarInfo HandOwner="Left">
+        <X>0.319233239</X>
+        <Y>0.48435843</Y>
+        <Z>0.21027112</Z>
+      </StarInfo>
+      <StarInfo HandOwner="Right">
+        <X>-0.228883848</X>
+        <Y>0.4864382</Y>
+        <Z>0.1393557</Z>
+      </StarInfo>
+    </TimeSample>
+  </Song>
+</StarSongXML>

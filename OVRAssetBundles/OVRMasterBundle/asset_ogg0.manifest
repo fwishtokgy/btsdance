@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3583596192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d827b24707385a14fa9ae1aa6038b3e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/BTS/audio/Lbp2_disolve_appear_02.ogg
+- Assets/BTS/audio/MKWiiTREEHOUSEAudio19.ogg
+- Assets/BTS/audio/Sims2_Load_loop_elevator1.ogg
+- Assets/BTS/audio/MKWiiTREEHOUSEAudio18.ogg
+- Assets/BTS/audio/Jak2-menuback-beta.ogg
+- Assets/BTS/audio/TAFHeroOfTheRailsTheme.ogg
+- Assets/BTS/audio/GT5_audio_jg150.ogg
+- Assets/BTS/audio/TVFriendChannel-KirbyJingle.ogg
+Dependencies: []

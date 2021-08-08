@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1513853490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54291f89c4fd9d161b6b3078135ef2ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af937095e4054c2c924c13c2a45fff7b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+Assets:
+- Assets/BTS/mats/editingRoom/squareBase.mat
+- Assets/Oculus/SampleFramework/Core/Video/Materials/MovieTexture.mat
+- Assets/BTS/mats/editingRoom/stagelight 1.mat
+- Assets/BTS/mats/editingRoom/circleBaseMat.mat
+- Assets/BTS/mats/editingRoom/timeScrubIncMat.mat
+- Assets/BTS/mats/editingRoom/editsky.mat
+- Assets/BTS/mats/editingRoom/deleteMat.mat
+- Assets/BTS/mats/editingRoom/addMat.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/DefaultHandMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinder.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/PokeMaterial.mat
+- Assets/BTS/mats/editingRoom/BubbleLeft 1.mat
+- Assets/BTS/mats/Materials/MirrorTexture.mat
+- Assets/BTS/mats/whee.mat
+- Assets/BTS/mats/editingRoom/moveMat.mat
+- Assets/BTS/mats/skybox.mat
+- Assets/BTS/mats/starbit.mat
+- Assets/BTS/mats/editingRoom/BubbleRight.mat
+- Assets/BTS/mats/TextOverlay.mat
+- Assets/BTS/mats/encasement.mat
+- Assets/BTS/mats/editingRoom/StarSparkleRight.mat
+Dependencies:
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_resources
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_rendertexture0

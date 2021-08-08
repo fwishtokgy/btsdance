@@ -1,0 +1,178 @@
+ManifestFileVersion: 0
+CRC: 763859515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fbffdac0289fb248b91b9d1381bc6d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bfbcf8dc3bb9099de2dfe9f00d9f52b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d29570d190991904fa7be8e22487cffc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf162022e230bb745ab2ec48cd357f9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77302e62f51fab94fafa828912a39a1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0950df82e7936c84983497630bde5b54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac27124318cf8e84aa7350c2ac1cdb80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36ec2a53b1ab88c4b939d80e0b117628, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d131ffd48e6aeca41bad660b4d9fcada, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2fd24a5526c9e04fa6de7a7b4c1423c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4288b9c5166016a49a9e419d660ff090, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b71d1996d67004241a3b69960856ffcb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7494dbf62ed8aa946b4a1920d508e966, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20575f07200f3cf48a000720891a2600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df8e1d778abf442e4bec449c360e9e1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ce6b05891f35ca4182e436451b6dab9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf6005a8407bb1e41bbbfe4f6f8023c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e49abf99e90d4ca4eaf253c29cd9a741, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 686a9bb94a16c344e80306ea9fb33043, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa20bbe9d0153e542900044c08c2ee52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8655e00a5becb0c44898067b21fa487a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00f3402a2ea5bff4880c0313515240cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f07515ada089df47868559a20dd6783, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91595f5bccb1aab43b19426e911610aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6baa98eb165203b4bb5e2e5be0c394b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f90c96c0f8103b4ab78ad7785eb3bcd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 847d8b0d968d4a14c89d7508f54c0db7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d04d73d1a7284b4ebda0f820066e9d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4653bded32609e24b96fe639692a1256, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd7aa22ef8d31ec46a77e66b03603ad6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48287b2e4d76f0b418f5f63a82054bec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c75be08e822ac82438d256473bda90c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ac808fe4fbe7bc4299f3d57fe325122, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25fddaff05ae4a544b74c850bc200229, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 121
+  Script: {instanceID: 0}
+- Class: 122
+  Script: {instanceID: 0}
+- Class: 123
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/btsvr_edit.unity
+Dependencies:
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_resources
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_3ds0
+- D:/ProjectsAndThoughts/Elements/00X_Shale/Repo/marionette/dancetest/OVRAssetBundles/OVRMasterBundle/asset_mp30

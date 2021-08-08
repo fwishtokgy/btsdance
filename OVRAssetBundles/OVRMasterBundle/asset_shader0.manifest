@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2908639666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1c6f7debeb397a1791976f3718ce6fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55d48f4ad9c3b13330b9eb5ee5686477
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Shaders/OculusSampleAlphaHandOutline.shader
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_Transparent.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/ButtonGlow.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/GradientSkybox.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/XingLightShader.shader
+Dependencies: []

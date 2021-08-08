@@ -1,0 +1,6 @@
+Started March 20, finished April 20. 
+Took a little less than 4 weeks. 
+Uses bubbled stars that are placed 
+using a rough editor, then played 
+in a main room blasting BTS 'Save Me.' 
+Took up 99 hours of development.
